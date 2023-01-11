@@ -1,0 +1,10 @@
+{
+  "name": "json-to-firestore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "firebase-admin": "^11.4.1"
+  }
+}
